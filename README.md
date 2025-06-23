@@ -11,7 +11,9 @@ AI Edge	GPT--4o embeddings + financial KPIs predict invoice default probability 
 Blockchain Edge	Solidity smart-contract marketplace; invoices become ERC-721s; funders commit PYUSD; repayment burns NFT & auto-routes PYUSD + discount back to investor.
 Impact	<30 s liquidity, 0 paper, 0 bank middlemen.
 
+
 Architecture
+
 java
 
 ┌──────────────┐   1. upload PDF/JSON invoice (+API)
